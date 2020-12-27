@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/EasyF0xCB/Ban-Plugin
+build-by-default: true
+branches:
+- master
+projects:
+  Ban-Plugin:
+    path: ""
+...
